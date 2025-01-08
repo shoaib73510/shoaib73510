@@ -24,19 +24,19 @@
 ### 1. **[Project Name 1]**
    - **Description:** Memory Game.
    - **Tech Stack:** React, Node.js, MongoDB, Express
-   - **Link:** https://github.com/shoaib73510/Memory-game-js.git
+   - **Link:** https://shoaib73510.github.io/Memory-game-js/
      
      
 
 ### 2. **[Project Name 2**]
    - **Description:** Snake Game.
    - **Tech Stack:** React, Node.js, Express, MongoDB
-   - **Link:** https://github.com/shoaib73510/Snake-Game.git
+   - **Link:** https://shoaib73510.github.io/Snake-Game/
    
 
 ## Get in Touch
 
-- 💼 You can check out my portfolio at [Your Portfolio Link](https://github.com/shoaib73510/Portfolio.git)
+- 💼 You can check out my portfolio at https://shoaib73510.github.io/Portfolio/
 - 📧 Feel free to email me at [Your Email Address]
 - 🔗 LinkedIn: [Your LinkedIn Profile](#)
 
