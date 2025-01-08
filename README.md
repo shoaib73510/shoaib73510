@@ -25,7 +25,7 @@
    - **Description:** Memory Game.
    - **Tech Stack:** React, Node.js, MongoDB, Express
    - **Link:** https://github.com/shoaib73510/Memory-game-js.git
-   - **Features:**
+     
      
 
 ### 2. **[Project Name 2**]
@@ -36,7 +36,7 @@
 
 ## Get in Touch
 
-- 💼 You can check out my portfolio at [Your Portfolio Link](https://github.com/shoaib73510/Portfolio.git)]
+- 💼 You can check out my portfolio at [Your Portfolio Link](https://github.com/shoaib73510/Portfolio.git)
 - 📧 Feel free to email me at [Your Email Address]
 - 🔗 LinkedIn: [Your LinkedIn Profile](#)
 
