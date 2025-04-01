@@ -1,10 +1,8 @@
 ![banner](https://private-user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzYzMjEwNzAsIm5iZiI6MTczNjMyMDc3MCwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg4MzQtNzI5MDMzMjQtY2Y1Ny00ZTkwLTgwYTYtZWQzYzk3MzRlMGVkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTA4VDA3MTkzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWUzZGRjMWZjMzQwMTRjNDMzYTUxNmJhMWIyOWUzZjZhODdjY2QxODgwNjQwMWFhNTc5MTZjNzk2MGZjZmMwOGImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.O2RvwvH0NqBcKURSSf1OPk_Uu5xgKiqZL3PTtBR-9aA)
 <h1 align="center">Hi 👋, I'm Mohammed Shoaib ur Rahman K</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate MERN Stack Developer from India</h3>
 
-- 🌱 I’m currently learning **Mern Stack Back end**
-
-- 💬 Ask me about **Html,Css,Java Script,Boot strap,React**
+- 💬 Ask me about **Html,Css,Java Script,Bootstrap,React,Node,Express,MongoDb.**
 
 - 📫 How to reach me **shyuaib007@gmail.com**
 
