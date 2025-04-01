@@ -21,23 +21,23 @@
 
 ## Projects
 
-### 1. **[Project Name 1]**
-   - **Description:** Memory Game.
-   - **Tech Stack:** React, Node.js, MongoDB, Express
+### 1. **[Project Name : Memory Game]**
+   - **Description:** This is a Memory Card Flipping game featuring a monochromatic UI.  The game board is randomized upon each click and moves are tracked upon the pair of cards user flips..
+   - **Tech Stack:** Html, Css, JavaScript, Bootstrap
    - **Link:** https://shoaib73510.github.io/Memory-game-js/
      
      
 
-### 2. **[Project Name 2**]
-   - **Description:** Snake Game.
-   - **Tech Stack:** React, Node.js, Express, MongoDB
+### 2. **[Project Name : Snake Game]**
+   - **Description:** This project is a classic 2D Snake Game developed using HTML, CSS, and JavaScript. The player controls the snake using the arrow keys and grows the snake by collecting food items on the screen. The game ends when the snake collides with the boundaries or itself. This project provides a great example to apply your basic web development skills..
+   - **Tech Stack:** Html, Css, JavaScript, Bootstrap
    - **Link:** https://shoaib73510.github.io/Snake-Game/
    
 
 ## Get in Touch
 
 - 💼 You can check out my portfolio at https://shoaib73510.github.io/Portfolio/
-- 📧 Feel free to email me at [Your Email Address]
+- 📧 Feel free to email me at [shyuaib007@gmail.com]
 - 🔗 LinkedIn: [Your LinkedIn Profile](#)
 
 ## Connect With Me
