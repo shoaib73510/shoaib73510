@@ -36,7 +36,7 @@
 
 - 💼 You can check out my portfolio at https://shoaib73510.github.io/Portfolio/
 - 📧 Feel free to email me at [shyuaib007@gmail.com]
-- 🔗 LinkedIn: [[Your LinkedIn Profile](https://img.shields.io/badge/LinkedIn-%230A66C2?style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)](#)
+- 🔗 LinkedIn:(https://img.shields.io/badge/LinkedIn-%230A66C2?style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)](#)
 
 ## Connect With Me
 
