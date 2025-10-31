@@ -36,9 +36,9 @@
 
 - 💼 You can check out my portfolio at https://shoaib73510.github.io/Portfolio/
 - 📧 Feel free to email me at [shyuaib007@gmail.com]
-- 🔗 LinkedIn: [ https://www.linkedin.com/in/mohammed-shoaib-front-end-developer/ ]
+
 
 ## Connect With Me
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230A66C2?style=social&logo=linkedin&logoColor=white) https://www.linkedin.com/in/mohammed-shoaib-front-end-developer/ ] 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=social&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-shoaib-front-end-developer/)
+
