@@ -40,5 +40,5 @@
 
 ## Connect With Me
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230A66C2?style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/mohammed-shoaib-front-end-developer/))
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230A66C2?style=social&logo=linkedin&logoColor=white)]
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=social&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
