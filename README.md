@@ -19,14 +19,21 @@
 
 ## Projects
 
-### 1. **[Project Name : Memory Game]**
+### 1. **[ Project Name : Memory Game ]**
    - **Description:** This is a Memory Card Flipping game featuring a monochromatic UI.  The game board is randomized upon each click and moves are tracked upon the pair of cards user flips..
    - **Tech Stack:** Html, Css, JavaScript, Bootstrap
    - **Link:** https://shoaib73510.github.io/Memory-game-js/
      
+### 2. **[ Project Name : Responsive-Company-Website ]**
+   - **Description:** Designed and developed a fully responsive company website to
+showcase services, team profiles, and contact information. Ensured
+seamless user experience across all devices using modern web
+standards and responsive design principles.
+ - **Tech Stack:** HTML5, CSS3, Bootstrap 5
+ - **Link:** https://shoaib73510.github.io/Responsive-Company-Website-/
      
 
-### 2. **[Project Name : Snake Game]**
+### 3. **[ Project Name : Snake Game ]**
    - **Description:** This project is a classic 2D Snake Game developed using HTML, CSS, and JavaScript. The player controls the snake using the arrow keys and grows the snake by collecting food items on the screen. The game ends when the snake collides with the boundaries or itself. This project provides a great example to apply your basic web development skills..
    - **Tech Stack:** Html, Css, JavaScript, Bootstrap
    - **Link:** https://shoaib73510.github.io/Snake-Game/
